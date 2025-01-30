@@ -3,7 +3,7 @@
 
 # ARIEL'S PROFILE! 👍
 
-Hello there, pleasure to have you here. I'm computer enthusiast and i've recently get to the programming world, so take a look for new projects of my and some atrocities called "projects" haha, just kidding.
+> Hello there, pleasure to have you here. I'm computer enthusiast and i've recently get to the programming world, so take a look for new projects of my and some atrocities called "projects" haha, just kidding.
 
 <br>
 
