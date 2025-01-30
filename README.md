@@ -5,14 +5,11 @@
 
 > Hello there, pleasure to have you here. I'm computer enthusiast and i've recently get to the programming world, so take a look for new projects of my and some atrocities called "projects" haha, just kidding.
 
-<br>
-
 <div>
   <a href="https://linkedin.com/in/ariel-da-silva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"/>
   </a>
 </div>
-<br>
 
 #
 
