@@ -84,15 +84,6 @@ Currently I'm interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="200em" src="https://github-stats-extended.vercel.app/api?username=arieljorge&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arieljorge&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 💡 Interests
 
 - Software Architecture
