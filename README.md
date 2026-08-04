@@ -1,44 +1,118 @@
-![top banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</p>
 
-# Ariel's GitHub - Welcome to my GitHub
+<h1 align="center">Hi there 👋, I'm Ariel Jorge</h1>
 
-## 🚀 About Me
-
-> Hello there, pleasure to have you here. I'm computer enthusiast and i've recently get to the programming world, so take a look for my new projects of my and have fun.
+<p align="center">
+Backend Developer • Java & Spring Boot • React • TypeScript
+</p>
 
 ---
 
-- **Studies**
-  - Computer Technician Course
-  - Systems Analysis and Development Student Course
-- **Small Interests**
-  - Low Level Code
-  - Software Architect
-- **Projects**
-  - [Personal Website](https://arielsroom.site)
-  - [CRUD system in Flutter](https://github.com/arieljorge/flutter_crud_app)
-  - [SpringBoot API](https://github.com/arieljorge/mybooklist)
-  - [Vaccine Registration System](https://github.com/arieljorge/pharma-queue)
-  - [Arduino Sensor for Ambient Monitoring](https://github.com/arieljorge/lut-sensor)
- 
-## 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-<div align="center">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieljorge&theme=onedark&layout=donut"/>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=arieljorge&show_icons=true&theme=onedark"/>
-</div>
+I'm a Software Developer from Brazil focused on building backend applications with **Java** and **Spring Boot**, while also developing modern frontends using **React** and **TypeScript**.
+
+I enjoy designing scalable architectures, learning how distributed systems work, and understanding software beyond the framework level.
+
+Currently I'm interested in:
+
+- ☕ Java & Spring Boot
+- ⚛️ React & TypeScript
+- 🐘 PostgreSQL
+- 📨 RabbitMQ & Message Brokers
+- 🏗️ Software Architecture
+- ⚙️ Linux & DevOps
+- 🦀 Rust *(currently learning)*
+- 🐹 Go *(currently learning)*
+
+<!--
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,go,rust,java,bash,html,css,javascript"/>
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📚 [MyBookList](https://github.com/arieljorge/mybooklist) | REST API built with Spring Boot |
+| 💉 [Pharma Queue](https://github.com/arieljorge/pharma-queue) | Vaccine registration system |
+| 📱 [Flutter CRUD](https://github.com/arieljorge/flutter_crud_app) | CRUD application built with Flutter |
+| 🌡️ [LUT Sensor](https://github.com/arieljorge/lut-sensor) | Arduino ambient monitoring project |
+
+-->
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,bash,html,css" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,postgres,mongodb,materialui,linux,gradle,git"/>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,gradle" />
 </p>
 
-## 📫 Contacts
+### Frontend
 
-Want to connect? Reach out here:
+<p>
+<img src="https://skillicons.dev/icons?i=react,materialui" />
+</p>
 
-- [Linkedin](https://linkedin.com/in/ariel-da-silva)
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,docker" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=rust,go,kafka,redis" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="200em" src="https://github-stats-extended.vercel.app/api?username=arieljorge&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arieljorge&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💡 Interests
+
+- Software Architecture
+- Distributed Systems
+- Backend Engineering
+- Low-level Programming
+- Open Source
+- Linux
+
+---
+
+## 📫 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/ariel-da-silva">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <!--
+  <a href="mailto:your@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  -->
+</p>
