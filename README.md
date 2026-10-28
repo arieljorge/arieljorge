@@ -1,109 +1,36 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-</p>
-
-<h1 align="center">Hi there 👋, I'm Ariel Jorge</h1>
+<h1 align="center">Hi, I'm Ariel Jorge 👋</h1>
 
 <p align="center">
-Backend Developer • Java & Spring Boot • React • TypeScript
+Backend Engineer · Java & Spring Boot · React & TypeScript
 </p>
 
----
+## About
 
-## 👨‍💻 About Me
+I'm a software developer from Brazil. I work mostly on backend systems with **Java and Spring Boot**, and build frontends with **React and TypeScript**.
+I'm studying Systems Analysis and Development at PUC Goiás.
 
-I'm a Software Developer from Brazil focused on building backend applications with **Java** and **Spring Boot**, while also developing modern frontends using **React** and **TypeScript**.
+## Day to day
 
-I enjoy designing scalable architectures, learning how distributed systems work, and understanding software beyond the framework level.
+I work with Java and Spring Boot on the backend, React and TypeScript on the frontend, and PostgreSQL and RabbitMQ for data and messaging.
 
-Currently I'm interested in:
+## Tech stack
 
-- ☕ Java & Spring Boot
-- ⚛️ React & TypeScript
-- 🐘 PostgreSQL
-- 📨 RabbitMQ & Message Brokers
-- 🏗️ Software Architecture
-- ⚙️ Linux & DevOps
-- 🦀 Rust *(currently learning)*
-- 🐹 Go *(currently learning)*
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,gradle,postgres,rabbitmq,typescript,react,docker,linux,git" />
+</p>
 
-<!--
-
----
-
-## 🚀 Featured Projects
+## Featured projects
 
 | Project | Description |
 |---------|-------------|
-| 📚 [MyBookList](https://github.com/arieljorge/mybooklist) | REST API built with Spring Boot |
-| 💉 [Pharma Queue](https://github.com/arieljorge/pharma-queue) | Vaccine registration system |
-| 📱 [Flutter CRUD](https://github.com/arieljorge/flutter_crud_app) | CRUD application built with Flutter |
-| 🌡️ [LUT Sensor](https://github.com/arieljorge/lut-sensor) | Arduino ambient monitoring project |
+| [SGTO](https://github.com/arieljorge/Sistema-Gerenciador-de-Tarefas-Online) | Full-stack Kanban task manager (Spring Boot + React), Docker Compose |
+| [MyBookList](https://github.com/arieljorge/mybooklist) | REST API with Spring Boot, JPA and PostgreSQL |
+| [LUT Sensor](https://github.com/arieljorge/lut-sensor) | IoT: Arduino sensors + Java REST API + mobile UI |
 
--->
+## Currently learning
 
----
+<img src="https://skillicons.dev/icons?i=go" />
 
-## 🛠️ Tech Stack
+## Contact
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,typescript,javascript,bash,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,gradle" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,materialui" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=rust,go,kafka,redis" />
-</p>
-
----
-
-## 💡 Interests
-
-- Software Architecture
-- Distributed Systems
-- Backend Engineering
-- Low-level Programming
-- Open Source
-- Linux
-
----
-
-## 📫 Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/ariel-da-silva">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <!--
-  <a href="mailto:your@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  -->
-</p>
+[LinkedIn](https://linkedin.com/in/ariel-da-silva)
